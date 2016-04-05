@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<meta charset = "UTF-8"/>
+	<title>My first!</title>
+	<link href = "style.css" rel = "stylesheet" type = "text/css"/>
+	<script type = "text/javascript" src="script.js"></script>
+</head>
+
+<body>
+	<p>Hello!</p>
+	<p>Hel 0!</p>
+	<hr></hr>
+<div>
+	kldfj;hskj;gkjsdagf;kjsadbg;kjsdagb;kdjfabg
+</div>
+</body>
+</html>
