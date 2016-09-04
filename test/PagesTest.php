@@ -1,5 +1,5 @@
 <?php
-require_once "../controllers/Pages.php";
+require_once "controllers/Pages.php";
 
 class PagesTest extends PHPUnit_Framework_TestCase
 {
